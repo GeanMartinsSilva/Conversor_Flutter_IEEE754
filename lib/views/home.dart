@@ -245,7 +245,7 @@ Widget buildTextField(String label, TextEditingController value, Function f) {
       labelStyle: TextStyle(fontSize: 25),
       border: OutlineInputBorder(),
     ),
-    style: TextStyle(fontSize: 17.5),
+    style: TextStyle(fontSize: 17.25),
     //onChanged: f,
     keyboardType: TextInputType.numberWithOptions(decimal: true),
     // O comando acima também permite os decimais dentro do IOS
