@@ -9,7 +9,6 @@ class _HomeState extends State<Home> {
   final decimalController = TextEditingController();
   final binarioController = TextEditingController();
   final hexaController = TextEditingController();
-  //final valorNum = double.parse(decimalController.text);
 
   void fake(var decimalController) {}
 
